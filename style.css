@@ -1,8 +1,14 @@
 body{
    background: pink;
-  }
+}
 form label{
-  display: block;
-  font-size:20px;
+   display;block
+   font-size:20px;
+}
 
-  }
+td{
+   background:blue
+      border:3px solid;
+   border-style: double;
+   color: red;
+   font-size:30px;
